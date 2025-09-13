@@ -1,0 +1,28 @@
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# Compiled files
+*.exe
+*.obj
+*.ilk
+*.log
+*.pdb
+*.idb
+*.tlog
+
+# Backup & test files
+thomas.txt
+0
+
